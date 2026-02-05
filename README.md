@@ -59,10 +59,6 @@ I mostly work with **Full Stack development**, combining robust backends with mo
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://joaogabriel148.github.io/personal-portfolio/)
 
 ---
-
-⭐ If you like my projects, feel free to star the repositories and connect with me!
-
-
 <!-- <h1>Github Stats:</h1>
 <div align="center">
   <a href="https://github.com/Joaoagbriel148">
